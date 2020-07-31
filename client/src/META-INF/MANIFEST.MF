@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Main-Class: com.armchina.cph.Client
+Class-Path: librealsense-1.12.4-1.5.3.jar ffmpeg-4.2.2-1.5.3-windows-x86
+ _64.jar ffmpeg-4.2.2-1.5.3-linux-x86.jar javacpp-1.5.3-android-arm.jar
+ ffmpeg-4.2.2-1.5.3-linux-arm64.jar artoolkitplus-2.3.1-1.5.3.jar ffmpeg
+ -4.2.2-1.5.3-linux-armhf.jar ffmpeg-4.1-1.4.4-android-x86_64.jar libfre
+ enect2-0.2.0-1.5.3.jar tesseract-4.1.1-1.5.3.jar javacpp-1.5.3-ios-arm6
+ 4.jar mina-core-2.1.3.jar flandmark-1.07-1.5.3.jar javacpp-platform-1.5
+ .3.jar slf4j-nop-1.7.2.jar javacpp-1.5.3.jar ffmpeg-4.1-1.4.4-linux-ppc
+ 64le.jar javacpp-1.5.3-linux-armhf.jar javafx-base-11-win.jar ffmpeg-4.
+ 2.2-1.5.3-macosx-x86_64.jar javacpp-1.5.3-linux-x86.jar ffmpeg-4.2.2-1.
+ 5.3-linux-x86_64.jar ffmpeg-4.2.2-1.5.3-android-arm64.jar javacpp-1.5.3
+ -macosx-x86_64.jar javacpp-1.5.3-windows-x86.jar ffmpeg-4.2.2-1.5.3-lin
+ ux-ppc64le.jar javafx-base-11.jar ffmpeg-4.1-1.4.4-windows-x86_64.jar f
+ fmpeg-4.2.2-1.5.3-windows-x86.jar ffmpeg-4.1-1.4.4-android-arm.jar flyc
+ apture-2.13.3.31-1.5.3.jar ffmpeg-4.1-1.4.4-android-arm64.jar ffmpeg-4.
+ 2.2-1.5.3.jar javacpp-1.5.3-windows-x86_64.jar javacpp-1.5.3-linux-ppc6
+ 4le.jar videoinput-0.200-1.5.3.jar ffmpeg-4.1-1.4.4.jar javacpp-1.5.3-a
+ ndroid-arm64.jar ffmpeg-4.1-1.4.4-macosx-x86_64.jar ffmpeg-4.1-1.4.4-wi
+ ndows-x86.jar ffmpeg-4.1-1.4.4-linux-x86_64.jar libfreenect-0.5.7-1.5.3
+ .jar javacpp-1.5.3-android-x86_64.jar javacpp-1.5.3-linux-x86_64.jar ja
+ vacpp-1.5.3-linux-arm64.jar ffmpeg-4.1-1.4.4-linux-x86.jar ffmpeg-4.2.2
+ -1.5.3-android-arm.jar javacv-1.5.3.jar ffmpeg-4.2.2-1.5.3-android-x86.
+ jar ffmpeg-platform-4.1-1.4.4.jar ffmpeg-4.1-1.4.4-android-x86.jar open
+ cv-4.3.0-1.5.3.jar javafx-graphics-11.jar ffmpeg-platform-4.2.2-1.5.3.j
+ ar libdc1394-2.2.6-1.5.3.jar ffmpeg-4.1-1.4.4-linux-armhf.jar slf4j-api
+ -1.7.26.jar javacpp-1.5.3-android-x86.jar ffmpeg-4.2.2-1.5.3-android-x8
+ 6_64.jar leptonica-1.79.0-1.5.3.jar javafx-graphics-11-win.jar libreals
+ ense2-2.29.0-1.5.3.jar javacpp-1.5.3-ios-x86_64.jar openblas-0.3.9-1.5.
+ 3.jar
+
