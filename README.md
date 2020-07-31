@@ -9,12 +9,12 @@ supports touch down, touch up as well as scroll
 To run the demo, follows these steps:
 ```
 1. run runServer.bat to start the server on Windows
-2. run runClient.bat to start the client and press the "link" button
+2. run the client project on IntelliJ to start the client on Windows
 ```
 
 or you can build the file on your own:
 ```
 1. use gradle on AndroidStudio to build file for server
-2. use maven on IntelliJ to build file for client
+2. use maven on IntelliJ to build file for client and use 'java -jar @dest' to start the client
 ```
 
