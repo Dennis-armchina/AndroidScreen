@@ -1,23 +1,20 @@
-# AndroidController
-A simple implementation of a remote controller over android devices 
-# Go API Server for android
+# AndroidScreen Projector
+A simple demo for remote projection and control based on android.
 
-This demo builds a simple server on android for remote control function(e.g. open packages, install APK files, print package info,etc)
-
-## Overview
-
-- API version: 1.0.0
-- Build date: 2020-06-16T02:54:00.100Z
-
+##Features
+Screen projections encoding based on h264 stream, while use ffmpeg for decoding on Client
+supports touch down, touch up as well as scroll 
 
 ### Running the server
-To build for your own android devices on windows，follow these simple steps:
+To run the demo, follows these steps:
+```
+1. run runServer.bat to start the server on Windows
+2. run runClient.bat to start the client and press the "link" button
+```
 
+or you can build the file on your own:
 ```
-./build.bat
+1. use gradle on AndroidStudio to build file for server
+2. use maven on IntelliJ to build file for client
 ```
 
-To run the server, follow these simple steps:
-```
-go run main.go
-```
