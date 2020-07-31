@@ -1,7 +1,7 @@
 # AndroidScreen Projector
 A simple demo for remote projection and control based on android.
 
-##Features
+## Features
 Screen projections encoding based on h264 stream, while use ffmpeg for decoding on Client
 supports touch down, touch up as well as scroll 
 
